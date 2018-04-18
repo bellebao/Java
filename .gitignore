@@ -1,0 +1,9 @@
+*.bak
+*.*~
+RemoteSystemsTempFiles
+*.class
+/.metadata/
+*.recommenders/
+*.prefs
+*.project
+*.classpath
